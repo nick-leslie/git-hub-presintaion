@@ -1,3 +1,2 @@
 # git-hub-presintaion
-
-this is the branch that will be twisted and morphed
+this is a presintation for showing my cs class how to use git hub
